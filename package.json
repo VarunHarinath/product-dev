@@ -1,0 +1,13 @@
+{
+  "name": "axis-forge-detailing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static structural detailing and BIM consultancy website.",
+  "scripts": {
+    "build": "node scripts/verify-static.mjs",
+    "dev": "npx serve dist"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
